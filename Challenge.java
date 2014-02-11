@@ -41,4 +41,5 @@ public class Challenge
     }
     /**
      * Just a quick edit to see if the github commit works for this bluej project
+     */
 }
