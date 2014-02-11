@@ -39,7 +39,4 @@ public class Challenge
     {
         return reward;
     }
-    /**
-     * Just a quick edit to see if the github commit works for this bluej project
-     */
 }
